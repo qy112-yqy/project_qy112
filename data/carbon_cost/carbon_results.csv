@@ -1,0 +1,7 @@
+model,seconds,emissions_g
+Naive,0.04,0.001397
+OLS,0.0,0.001318
+Ridge,0.07,0.0018
+Lasso,0.03,0.001356
+Random Forest,0.09,0.001436
+XGBoost,0.23,0.001616
